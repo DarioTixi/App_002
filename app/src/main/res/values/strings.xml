@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">App_002</string>
+    <string name="edt_numero1">Ingrese un numero</string>
+    <string name="edt_numero2">Ingrese otro numero</string>
+    <string name="edt_resultado">Resultado</string>
+    <string name="btn_Potencia">Potencia</string>
+
+
 </resources>
